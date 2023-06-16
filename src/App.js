@@ -5,7 +5,7 @@ import UseStateExample from "./components/3-useStateHook/UseStateExample";
 function App() {
   return (
     <div>
-      <h1>App</h1>
+      <Events />
     </div>
   );
 }
